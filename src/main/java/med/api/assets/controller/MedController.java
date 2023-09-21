@@ -10,6 +10,6 @@ public class MedController {
 
     @GetMapping
     public String helloWorld(){
-        return "Hello World, Fernando Furtado!!! ";
+        return "Hello World, Fernando Furtado!!! "; 
     }
 }
